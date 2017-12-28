@@ -1,0 +1,26 @@
+{
+    "list":
+        [
+            {
+                "name": "Hoping She Would Be There",
+                "url": "/static/music/0.mp3"
+            },
+            {
+                "name": "大鱼-伴奏",
+                "url": "/static/music/1.mp3"
+            },
+            {
+                "name": "with an orchild",
+                "url": "/static/music/2.mp3"
+            },
+            {
+                "name": "芦苇荡",
+                "url": "/static/music/3.mp3"
+            },
+            {
+                "name": "在这个世界相遇（伴奏）",
+                "url": "/static/music/4.aac"
+            }
+        ],
+    "play": "1"
+}
