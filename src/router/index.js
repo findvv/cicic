@@ -11,7 +11,6 @@ import ErrorPage from '@/page/ErrorPage';
 import Xiangmu from '@/page/Xiangmu';
 
 Vue.use(Router)
-
 export default new Router({
     mode: 'history',
     routes: [

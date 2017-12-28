@@ -51,7 +51,6 @@
                     window.location.href = '/static/404.html';
                 } else {
                     let result = data.data.data;
-
                     this.title = result.title;
                     this.content = result.content;
                 }
